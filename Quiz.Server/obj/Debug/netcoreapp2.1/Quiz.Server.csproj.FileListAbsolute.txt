@@ -1,0 +1,14 @@
+C:\Users\Ivo\source\repos\FamouseQuoteQuiz\Quiz.Server\bin\Debug\netcoreapp2.1\Quiz.Server.deps.json
+C:\Users\Ivo\source\repos\FamouseQuoteQuiz\Quiz.Server\bin\Debug\netcoreapp2.1\Quiz.Server.runtimeconfig.json
+C:\Users\Ivo\source\repos\FamouseQuoteQuiz\Quiz.Server\bin\Debug\netcoreapp2.1\Quiz.Server.runtimeconfig.dev.json
+C:\Users\Ivo\source\repos\FamouseQuoteQuiz\Quiz.Server\bin\Debug\netcoreapp2.1\Quiz.Server.dll
+C:\Users\Ivo\source\repos\FamouseQuoteQuiz\Quiz.Server\bin\Debug\netcoreapp2.1\Quiz.Server.pdb
+C:\Users\Ivo\source\repos\FamouseQuoteQuiz\Quiz.Server\obj\Debug\netcoreapp2.1\Quiz.Server.csprojAssemblyReference.cache
+C:\Users\Ivo\source\repos\FamouseQuoteQuiz\Quiz.Server\obj\Debug\netcoreapp2.1\Quiz.Server.csproj.CoreCompileInputs.cache
+C:\Users\Ivo\source\repos\FamouseQuoteQuiz\Quiz.Server\obj\Debug\netcoreapp2.1\Quiz.Server.RazorAssemblyInfo.cache
+C:\Users\Ivo\source\repos\FamouseQuoteQuiz\Quiz.Server\obj\Debug\netcoreapp2.1\Quiz.Server.RazorAssemblyInfo.cs
+C:\Users\Ivo\source\repos\FamouseQuoteQuiz\Quiz.Server\obj\Debug\netcoreapp2.1\Quiz.Server.AssemblyInfoInputs.cache
+C:\Users\Ivo\source\repos\FamouseQuoteQuiz\Quiz.Server\obj\Debug\netcoreapp2.1\Quiz.Server.AssemblyInfo.cs
+C:\Users\Ivo\source\repos\FamouseQuoteQuiz\Quiz.Server\obj\Debug\netcoreapp2.1\Quiz.Server.RazorTargetAssemblyInfo.cache
+C:\Users\Ivo\source\repos\FamouseQuoteQuiz\Quiz.Server\obj\Debug\netcoreapp2.1\Quiz.Server.dll
+C:\Users\Ivo\source\repos\FamouseQuoteQuiz\Quiz.Server\obj\Debug\netcoreapp2.1\Quiz.Server.pdb
